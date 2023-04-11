@@ -7,7 +7,7 @@ spec:
     workspace: kaizen-app-team
     labelSelector:
       matchLabels:
-        purpose: int-test
+        purpose: int-test1
   clusterTypeSelector:
     labelSelector:
       matchLabels:
