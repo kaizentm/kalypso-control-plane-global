@@ -4,7 +4,7 @@ metadata:
   name: smalll
   labels: 
     region: west-us
-    size: small
+    size: smalll
 spec:
   reconciler: argocd
   namespaceService: default
