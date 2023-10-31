@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/kaizentm/kalypso-control-plane
   branch: main
   path: .
-  commit: 60a104991a5a9e2f8cb310f15544a71ff9a9c5e4
+  commit: 31293b87ae9968b1a701c4df2a7b40d082a56281
