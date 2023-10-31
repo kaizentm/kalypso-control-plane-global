@@ -4,7 +4,7 @@ metadata:
   name: performance-test-policy
 spec:
   deploymentTargetSelector:
-    workspace: kaizen-app-team
+    workspace: kaizentm
     labelSelector:
       matchLabels:
         purpose: performance-test
