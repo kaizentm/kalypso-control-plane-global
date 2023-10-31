@@ -1,7 +1,7 @@
 apiVersion: scheduler.kalypso.io/v1alpha1
 kind: WorkloadRegistration
 metadata:
-  name: hello-world-app
+  name: greeting
   labels:
     type: application
 spec:
@@ -9,4 +9,4 @@ spec:
     repo: https://github.com/kaizentm/kalypso-app-src
     branch: main
     path: workload/
-  workspace: kaizen-app-team
+  workspace: kaizentm
