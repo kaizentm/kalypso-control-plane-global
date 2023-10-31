@@ -4,7 +4,7 @@ metadata:
   name: int-test-policy
 spec:
   deploymentTargetSelector:
-    workspace: kaizen-app-team
+    workspace: kaizentm
     labelSelector:
       matchLabels:
         purpose: int-test
