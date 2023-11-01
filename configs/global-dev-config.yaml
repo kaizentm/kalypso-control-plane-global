@@ -5,4 +5,4 @@ metadata:
   labels:
      platform-config: "true"
 data:
-GLOBAL_ENVIRONMENT_VARIABLE: "true"
+  GLOBAL_ENVIRONMENT_VARIABLE: "true"
