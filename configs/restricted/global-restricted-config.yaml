@@ -6,4 +6,4 @@ metadata:
      platform-config: "true"
      restricted: "true"
 data:
-RESTRICTED_ZONE: "true"
+  RESTRICTED_ZONE: "true"
