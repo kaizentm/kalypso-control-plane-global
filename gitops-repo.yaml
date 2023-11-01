@@ -1,9 +1,0 @@
-apiVersion: scheduler.kalypso.io/v1alpha1
-kind: GitOpsRepo
-metadata:
-  name: dev
-spec:
-  repo: https://github.com/kaizentm/kalypso-gitops
-  branch: dev
-  path: .
-
