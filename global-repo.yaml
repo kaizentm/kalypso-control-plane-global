@@ -1,0 +1,8 @@
+apiVersion: scheduler.kalypso.io/v1alpha1
+kind: GitOpsRepo
+metadata:
+  name: global-dev
+spec:
+  repo: https://github.com/kaizentm/kalypso-control-plane-global
+  branch: dev
+  path: .
